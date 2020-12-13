@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
 <h3 align="center">A newbie frontend developer</h3>
 <img src="https://media.giphy.com/media/xWMPYx55WNhX136T0V/giphy.gif">
-- 🌱 I’m currently learning **vuejs**
+- 🌱 I’m currently learning vuejs
 
 - 📫 How to reach me **ukeskin2626@gmail.com**
 
