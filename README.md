@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Umut</h1>
-<h3 align="center">A newbie frontend developer</h3>
+<h1>Hi 👋, I'm Umut</h1>
+<h3>A newbie frontend developer</h3>
 <img src="https://media.giphy.com/media/xWMPYx55WNhX136T0V/giphy.gif">
 
-<p align="center">
+<p>
   <a href="https://ukeskin.github.io/Personal-Website/">Website</a> •
   <a href="https://twitter.com/umutkesk1n">Twitter</a>
 </p>
