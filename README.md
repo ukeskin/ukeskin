@@ -1,4 +1,4 @@
-<h3>A newbie frontend developer</h3>
+<h2>Developer</h2>
 
 ---
 - 🌱 I’m currently learning frontend tech. focusing on (React.js)
