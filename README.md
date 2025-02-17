@@ -1,10 +1,9 @@
-Hi 👋 My name is Umut
+Umut Keskin
 =====================
 
-Developer
+Software Developer
 ---------
 [umutkesk.in](https://umutkesk.in)
-* 🌍  I'm based in Turkey
 * ✉️  You can contact me at [ukeskin2626@gmail.com](mailto:ukeskin2626@gmail.com)
 * 🚀  I'm currently working on [egaranti](http://egaranti.com)
 
