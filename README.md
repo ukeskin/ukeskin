@@ -5,7 +5,6 @@ Software Developer
 ---------
 [umutkesk.in](https://umutkesk.in)
 * ✉️  You can contact me at [ukeskin2626@gmail.com](mailto:ukeskin2626@gmail.com)
-* 🚀  I'm currently working on [egaranti](http://egaranti.com)
 
 ### Skills
 
